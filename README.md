@@ -8,4 +8,6 @@ The game's main goal is to 'eat' the others players tokens. Whoever has no token
 
 In the interface of the board one can find a variety options. For instance one can mute the music with the icon, enter some options in 'Opciones partida' or configurate some features in 'Configuracion'. In 'Opciones partida' one can select to see the history of moves of the players, or even download it to the user's PC. If the player is in need of help one can also select 'Ayuda', which shows all the possible moves of defense in the column 'Defensa', attack in 'Ataque' or others in 'Otras'. Furthermore, in 'Configuracion' one could rotate the board in 'Rotar el tablero', change the color of the board in 'Cambiar el color del tablero' or even change the icons of the tokens in 'Cambiar el icono de las fichas'.
 
+For more information I have provided files, for instance the UML of the code and the Testing of it. 
+
 I encourage You to explore the game and enjoy it!
